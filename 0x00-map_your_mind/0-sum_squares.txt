@@ -1,0 +1,18 @@
+function sumSquares (Argument 1, Argument 2) {
+
+	calculate squares of Argument 1 
+	calculate squares of Argument 2
+	return sum of both squares
+
+}
+
+{
+In the main function
+
+	Argument 1, Argument 2 = INPUT("Input two numbers")
+
+	Send Argument 1 & Argument 2 to the sumSquares function
+	and print the result to the user
+
+}
+	
