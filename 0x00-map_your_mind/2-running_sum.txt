@@ -1,0 +1,12 @@
+{
+sum = 0
+
+number = INPUT("Input positive numbers to continue adding, 
+		Input negative number to get your result")
+
+	WHILE number >= zero
+		sum = sum + number
+	END WHILE
+
+print out sum back to user
+}
