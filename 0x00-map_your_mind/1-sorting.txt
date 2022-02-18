@@ -1,0 +1,17 @@
+function sort (Argument 1, Argument 2, Argument 3) {
+
+	put the 3 Arguments in an Array
+	sort the Array
+	return a list of Arguments in the sorted Array
+
+}
+
+{
+In the main function
+
+	Argument 1, Argument, Argument 3 = INPUT("Input three numbers")
+
+	Send Argument 1, Argument 2 & Argument 3 to the sort function
+	and print the result to the user
+
+} 
